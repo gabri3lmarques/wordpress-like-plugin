@@ -1,1 +1,1 @@
-# wordpress-plugin-challenge
+# wordpress-like-plugin
